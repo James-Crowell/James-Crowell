@@ -1,4 +1,5 @@
-## Hi there 👋
+## James Crowell Profile
+### Wip
 
 <!--
 **James-Crowell/James-Crowell** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
